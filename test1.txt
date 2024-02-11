@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ini adalah file test1.txt
 =======
 ini adalah file baru
 
 harish
 >>>>>>> 7b94c72abcc4b586403a936d7af8c4c0df5c8528
+=======
+ini adalah file test1.txt
+
+>>>>>>> 3b9ee9c5b3edd008b471656c4977d0329ecd5b37
